@@ -1,0 +1,32 @@
+ul li a{
+    border:2px solid hotpink; 
+}
+.pink{
+    color:pink;
+}
+.yellow {
+
+    color: yellow
+}
+.orange{
+     color: orange
+}
+h3 + h4{
+    color: rebeccapurple
+}
+h4 + p{
+    color: darkorchid
+}
+h5{
+    text-decoration: underline overline wavy pink 
+}
+.blue{ 
+text-decoration: wavy underline indigo;
+    color: royalblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.teal{ 
+text-decoration: tomato double overline;
+color: seagreen;
+font-family: 'Courier New', Courier, monospace;
+font-weight: 5px;

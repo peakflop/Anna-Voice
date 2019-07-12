@@ -1,0 +1,26 @@
+body{
+    background: url("https://img.freepik.com/free-photo/pink-brick-wall-texture-empty-background-vintage-stonewall_34008-551.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:#1a094d
+}
+h2{
+    color:white 
+}
+h3{
+    color:#f7a6d4
+}
+h4{
+    color: black
+}
+.green {
+    color:green
+}
+p{
+    color:#e815d6
+}
+p{
+    color: #488fc2

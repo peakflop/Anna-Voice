@@ -1,0 +1,13 @@
+<style>
+h1{ 
+color: hotpink;
+
+}
+
+p{ 
+    color: rebeccapurple;
+} 
+h2 + ol{ 
+    color: teal;
+}
+
